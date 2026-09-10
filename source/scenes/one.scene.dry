@@ -1,6 +1,8 @@
 title: Where am I?
 new-page: true
-go-to: two
+
+- @who?: Axel.
+- @No: ?%2^$
 
 You woke to your own screaming.
 
@@ -22,3 +24,8 @@ You try not to think about that.
 
 You try think about the man in front of you.
 
+@who?
+on-arrival: go-to: two.scene.dry
+
+@No
+on-arrival: go-to: two.scene.dry
