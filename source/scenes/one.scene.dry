@@ -1,8 +1,6 @@
 title: Where am I?
 new-page: true
-
-- @who?: Axel.
-- @No: ?%2^$
+tags: top
 
 You woke to your own screaming.
 
@@ -23,9 +21,3 @@ Axel nods, he sits down on his chair, slowly, his knees bending. He is a young m
 You try not to think about that.
 
 You try think about the man in front of you.
-
-@who?
-on-arrival: go-to: two.scene.dry
-
-@No
-on-arrival: go-to: two.scene.dry
